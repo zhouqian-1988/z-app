@@ -1,0 +1,26 @@
+<!--pages/home/home.wxml-->
+<swiper
+  autoplay="true"
+  interval="2000"
+  circular="true"
+  indicator-dots="true"
+  indicator-active-color="#fff"
+  indicator-color="rgba(255, 255, 255, 0.6)"
+  class="my-swiper"
+>
+  <swiper-item>
+    <image src="/static/uploads/slide_1.jpg" class="my-img"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="/static/uploads/slide_2.jpg" class="my-img"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="/static/uploads/slide_3.jpg" class="my-img"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="/static/uploads/slide_4.jpg" class="my-img"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="/static/uploads/slide_5.jpg" class="my-img"></image>
+  </swiper-item>
+</swiper>

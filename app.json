@@ -1,0 +1,43 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/home/home",
+    "pages/card/card",
+    "pages/user/user"
+  ],
+  "entryPagePath": "pages/home/home",
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#262626",
+    "navigationBarTitleText": "FC游乐园",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar":{
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "assets/icons/home-default.png",
+        "selectedIconPath": "assets/icons/home-active.png"
+      },
+      {
+        "pagePath": "pages/card/card",
+        "text": "卡券",
+        "iconPath": "assets/icons/ticket-default.png",
+        "selectedIconPath": "assets/icons/ticket-active.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "卡券",
+        "iconPath": "assets/icons/face-default.png",
+        "selectedIconPath": "assets/icons/face-active.png"
+      }
+    ],
+    "backgroundColor": "#FECA49",
+    "color": "#D78B09",
+    "selectedColor": "#fff"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

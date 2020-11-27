@@ -1,0 +1,9 @@
+/* pages/home/home.wxss */
+.my-swiper {
+  width: 750rpx;
+  height: 320rpx;
+}
+.my-img {
+  width: 100%;
+  height: 100%;
+}
