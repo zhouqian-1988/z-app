@@ -7,3 +7,33 @@
   width: 100%;
   height: 100%;
 }
+.act-title {
+  margin: 30rpx;
+  font-weight: 700;
+}
+.act-icon {
+  position: absolute;
+  top: -10rpx;
+  left: 30rpx;
+  width: 68px;
+  height: 29px;
+}
+.act-img {
+  position: relative;
+}
+.activited {
+  padding: 20rpx 30rpx;
+  font-size: 30rpx;
+}
+.tip {
+  width: 295px;
+  float: left;
+}
+.free {
+  float: right;
+  color: red;
+}
+.act-pic {
+  width: 750rpx;
+  height: 320rpx;
+}

@@ -24,3 +24,15 @@
     <image src="/static/uploads/slide_5.jpg" class="my-img"></image>
   </swiper-item>
 </swiper>
+<view class="act-title">乐园活动</view>
+<view>
+  <view class="act-img">
+    <image src="/static/images/status_active.png" class="act-icon">
+    </image>
+  </view>
+  <image src="/static/uploads/item_1.png" class="act-pic"></image>
+</view>
+<view class="activited">
+  <text class="tip">疯狂的大红包 不一样的撕名牌 大型家庭亲子户外活动</text>
+  <text class="free">免费</text>
+</view>
