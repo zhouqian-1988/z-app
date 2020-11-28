@@ -37,4 +37,4 @@
   <text class="free">免费</text>
 </view>
 <!-- 字体图标 -->
-<view class="iconfont bottom&#xe666" style="font-size: 28px; color: red;"></view>
+<view class="iconfont icon-cry" style="font-size: 28px; color: red;"></view>
