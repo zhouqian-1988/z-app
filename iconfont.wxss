@@ -1,0 +1,33 @@
+@font-face {font-family: "iconfont";
+  src: url('https://zqq2.coding.net/p/zqq/d/zqzq/git/raw/master/fonts/iconfont.eot?t=1606568027579'); /* IE9 */
+  src: url('https://zqq2.coding.net/p/zqq/d/zqzq/git/raw/master/fonts/iconfont.eot?t=1606568027579#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAQQAAsAAAAACKwAAAPDAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDMgqETIQGATYCJAMUCwwABCAFhG0HRxuRByMRNnMwkpL9M8GmU1vwDSXydE3JQkL7eHVAjPEj60Ish7oMDuM6vong+/1e91x4QXBAKvkqEw9oo4jbqqgIVUDVKldXW09CkQRyndofABN6GYwPqJ5gpl9yWOB8SU2a+hcUGsZ67dZcHbBREaokz989KvQLyUIhnWz6IKT7P+5VzjoP2Hz2LS5zD8oFMLaAYrG9OgdZC1JR7wM8w4UJvJlAt0ktsXl//Vh1KoRFgbhJwaw6XUolBh86JU3IziJeqTrTi/SBl/rvx++l6CSpmXCr3Xs3v1r95r9xRtvoSUbdL0+P2z4yWijEbajxRjaDLVn3x1+s8vV3SlJZw+hb/sbtNnJ7JO4W/+ERkqwQDSG9F6xSqPDNywjBN0JIfMsImW/MXjHpFXRj+A3/GDf/kJBUqR0pVUilcmg0kbCECusWG+eBRFUI6AKFBhGalkCY5tQtljD9ApYdl97TJND2JVNyoxPbuVBM73UFrwTDonEcIUktQRRK/BiD7jwTw+Kx6O6BhTkB2YT0CJoEfUN8Ir1QIVhRB3SB5igqOSUaMWehmXY2hiJZPXOCnDNSR0RnZut1UUu35LWpS+UCN3PN3Qa6bhMxbmNDV4lVdOpki9l01xTAHlACNLVYTVPXTdUPiAdwrEGkFvWPjFwlirOgXY2M9LtHNQDTsM0B/Pc/H4g0pitcO6dnymgE1uth5I0wHWt4tKQIiM0rEpl31vsg+9I5gx+XmX5RUUIeDWEXst3ZBQZ1LKt3RrqmrzMooD2FgM1lJStKk4JoWO+AcaK335l3gFfgfEevdyCoRtKUSMh/ZS2+gNfMLXzwBB6KtAviopzCay/gGmzzCwMKAWEKnA/9+X+Hx3XiDbwL24Zf4FHo+oz4G+Oml4YUhvMvQGdPAZ/+0zE62u9KeuZuFfmw9j8rZVP5cgRVLe96mfk2V1trDpMY95q9bh32tRzxWOp0QqcxG5IOE5B1mkcVXAuqHsvQ6LQC3Rbt7O8x4lYWpQsLngCEQa8h6fcWskEfUQX3Bapxf6ExGBm67QXnxB5XGEW6eAkaRQ/2D5LjiSSNXozMNwzLYMTJ0QlfKCV5oK0ab+QBJ5Qy1pTv0KkSkPAId7gdDgPDLJzRaRVV52tdU9g3VY7H1YWXoFH0wP6B5Hgitb1efD//hmEZjMQ0/FB/oZQ0OGhVmhSoB+GUqmFbXlO+Q0eVAAmP4A56HMQggzl8WkanlZjDP1/V1IrSCqv6xeMy7oNuwhfVSJGjRI0GfOn9IZ1VedxmyN8p29hl4KWsVgA=') format('woff2'),
+  url('https://zqq2.coding.net/p/zqq/d/zqzq/git/raw/master/fonts/iconfont.woff?t=1606568027579') format('woff'),
+  url('https://zqq2.coding.net/p/zqq/d/zqzq/git/raw/master/fonts/iconfont.ttf?t=1606568027579') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('https://zqq2.coding.net/p/zqq/d/zqzq/git/raw/master/fonts/iconfont.svg?t=1606568027579#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-add:before {
+  content: "\e664";
+}
+
+.icon-bottom:before {
+  content: "\e666";
+}
+
+.icon-cry:before {
+  content: "\e66a";
+}
+
+.icon-fabulous:before {
+  content: "\e66f";
+}
+

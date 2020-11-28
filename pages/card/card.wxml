@@ -1,2 +1,22 @@
 <!--pages/card/card.wxml-->
-<text>pages/card/card.wxml</text>
+<!-- 渲染数据 -->
+<view wx:for="{{ list }}">
+  <view>书名： {{item.name}}</view>
+  <view>价格： {{item.price}}</view>
+</view>
+<view>----------------------------------------------</view>
+<!-- 条件渲染 -->
+<view>
+  <view wx:if="{{ year < 2 }}">初级</view>
+  <view wx:elif="{{ year > 2 && year < 5 }}">中级</view>
+  <view wx:else>高级</view>
+</view>
+<view>----------------------------------------------</view>
+<!-- 更新数据 -->
+<view>{{msg}}---{{num}}</view>
+<button bindtap='updateHandler'>点击更新</button>
+<view>----------------------------------------------</view>
+<!-- 请求网络数据 -->
+<view wx:for="{{ hot }}">
+  <view>电影名称：{{ item.nm }}</view>
+</view>

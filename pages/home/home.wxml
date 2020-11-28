@@ -9,30 +9,32 @@
   class="my-swiper"
 >
   <swiper-item>
-    <image src="/static/uploads/slide_1.jpg" class="my-img"></image>
+    <image src="https://zqq2.coding.net/p/zqq/d/zqzq/git/raw/master/static/uploads/slide_1.jpg" class="my-img"></image>
   </swiper-item>
   <swiper-item>
-    <image src="/static/uploads/slide_2.jpg" class="my-img"></image>
+    <image src="https://zqq2.coding.net/p/zqq/d/zqzq/git/raw/master/static/uploads/slide_2.jpg" class="my-img"></image>
   </swiper-item>
   <swiper-item>
-    <image src="/static/uploads/slide_3.jpg" class="my-img"></image>
+    <image src="https://zqq2.coding.net/p/zqq/d/zqzq/git/raw/master/static/uploads/slide_3.jpg" class="my-img"></image>
   </swiper-item>
   <swiper-item>
-    <image src="/static/uploads/slide_4.jpg" class="my-img"></image>
+    <image src="https://zqq2.coding.net/p/zqq/d/zqzq/git/raw/master/static/uploads/slide_4.jpg" class="my-img"></image>
   </swiper-item>
   <swiper-item>
-    <image src="/static/uploads/slide_5.jpg" class="my-img"></image>
+    <image src="https://zqq2.coding.net/p/zqq/d/zqzq/git/raw/master/static/uploads/slide_5.jpg" class="my-img"></image>
   </swiper-item>
 </swiper>
 <view class="act-title">乐园活动</view>
 <view>
   <view class="act-img">
-    <image src="/static/images/status_active.png" class="act-icon">
+    <image src="https://zqq2.coding.net/p/zqq/d/zqzq/git/raw/master/static/images/status_active.png" class="act-icon">
     </image>
   </view>
-  <image src="/static/uploads/item_1.png" class="act-pic"></image>
+  <image src="https://zqq2.coding.net/p/zqq/d/zqzq/git/raw/master/static/uploads/item_1.png" class="act-pic"></image>
 </view>
 <view class="activited">
   <text class="tip">疯狂的大红包 不一样的撕名牌 大型家庭亲子户外活动</text>
   <text class="free">免费</text>
 </view>
+<!-- 字体图标 -->
+<view class="iconfont bottom&#xe666" style="font-size: 28px; color: red;"></view>
